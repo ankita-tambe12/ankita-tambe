@@ -14,7 +14,6 @@
 | 🗃 Databases| MySQL |
 | 🛠 Tools    | Git, GitHub, VS Code |
 
-
  🏗 Projects
 
 | Project Name | Technology | Type | Link |
